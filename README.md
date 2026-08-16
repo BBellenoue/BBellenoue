@@ -28,11 +28,11 @@ I still ship production code. It keeps architectural judgement honest.
 
 ### Before this
 
-- **ConsenSys** — led a globally distributed team building a carbon-credit tokenization
+- **ConsenSys**: led a globally distributed team building a carbon-credit tokenization
   platform on EVM smart contracts.
-- **Eniblock** — Wallet-as-a-Service platform, SDK and B2B SaaS portal, fully remote team.
-- **SportSyncTech** — co-founder, Techstars Web3 class of 2024.
-- **SFEIR** — team and tech lead, up to 20 engineers across client engagements.
+- **Eniblock**: Wallet-as-a-Service platform, SDK and B2B SaaS portal, fully remote team.
+- **SportSyncTech**: co-founder, Techstars Web3 class of 2024.
+- **SFEIR**: team and tech lead, up to 20 engineers across client engagements.
 
 ### Working with
 
@@ -41,10 +41,10 @@ I still ship production code. It keeps architectural judgement honest.
 
 ### Projects
 
-- **[tv-track](https://github.com/BBellenoue/tv-track)** — self-hosted TV Time
+- **[tv-track](https://github.com/BBellenoue/tv-track)**: self-hosted TV Time
   alternative to track the shows and movies you watch. Flutter, Riverpod, Firebase,
   metadata from TheTVDB and TMDB, EN/FR. MIT.
-- **Alsace All Star Game** — basketball voting and team platform built for
+- **Alsace All Star Game**: basketball voting and team platform built for
   Beyond The Bounce, where I serve as President for Innovation & Technology.
   30,000+ unique votes, 4,500+ teams, integrated payments.
   Angular, NestJS, Nuxt, Keycloak, PostgreSQL.
